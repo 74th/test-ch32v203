@@ -1,0 +1,7 @@
+{
+    "sketch": "blink-arduino.ino",
+    "output": "build",
+    "configuration": "pnum=CH32V203G8,upload_method=swdMethod,opt=osstd,dbg=none,rtlib=nano",
+    "board": "WCH:ch32v:CH32V20x_EVT",
+    "port": "/dev/tty.usbmodemD8008F065CD32"
+}
